@@ -22,9 +22,13 @@ namespace SeaTrack.Areas.Admin.Controllers
         }
         //
         [HttpGet]
-        public ActionResult ListUser(int RoleID)
+        public ActionResult ListUser(int id)
         {
-            var data = AdminService.GetListUser(RoleID);
+            if (Request.Cookies["userName"] == null && Request.Cookies["pass"] == null)
+            {
+                return RedirectToAction("Login");
+            }
+            var data = AdminService.GetListUser(id);
             return Json(new { Result = data }, JsonRequestBehavior.AllowGet);
         }
 
