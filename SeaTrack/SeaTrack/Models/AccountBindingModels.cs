@@ -11,6 +11,7 @@ namespace SeaTrack.Models
         [Required]
         [Display(Name = "External access token")]
         public string ExternalAccessToken { get; set; }
+        //demo
     }
 
     public class ChangePasswordBindingModel
