@@ -67,6 +67,20 @@ namespace SeaTrack.Controllers
                 }
                 else
                 {
+                    if (useritem != null && useritem.RoleID == 1)
+                    {
+                        FormsAuthentication.SetAuthCookie(useritem.Username, true);
+                        if (!String.IsNullOrEmpty(ckRemember))
+                        {
+                            addCookie(useritem, true);
+                        }
+                        else
+                        {
+                            addCookie(useritem, false);
+                        }
+                        return RedirectToAction("AgencyManage", "Admin", new { area = "Admin" });
+
+                    }
                     Session["statusLogin"] = "0";
                     return RedirectToAction("Login");
                 }
