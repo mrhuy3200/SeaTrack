@@ -27,3 +27,20 @@ D:\Glorius\[VINASIA] Web\SeaTrack - Copy\SeaTrack\SeaTrack.Lib\bin\Debug\RestSha
 D:\Glorius\[VINASIA] Web\SeaTrack - Copy\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.csproj.CopyComplete
 D:\Glorius\[VINASIA] Web\SeaTrack - Copy\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.dll
 D:\Glorius\[VINASIA] Web\SeaTrack - Copy\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\SeaTrack.Lib.dll.config
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\SeaTrack.Lib.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\SeaTrack.Lib.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.Core.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Quartz.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\RestSharp.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.xml
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.Core.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Common.Logging.Core.xml
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Quartz.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\Quartz.xml
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\bin\Debug\RestSharp.xml
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.csprojResolveAssemblyReference.cache
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack.Lib\obj\Debug\SeaTrack.Lib.pdb
