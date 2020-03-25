@@ -55,6 +55,7 @@
     <Compile Include="Job\JobScheduler.cs" />
     <Compile Include="Job\JobSOS.cs" />
     <Compile Include="Service\AdminService.cs" />
+    <Compile Include="Service\DeviceService.cs" />
     <Compile Include="Service\Repository.cs" />
     <Compile Include="Service\SOSService.cs" />
     <Compile Include="Service\TrackDataService.cs" />

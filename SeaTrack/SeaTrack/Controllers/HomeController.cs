@@ -105,6 +105,11 @@ namespace SeaTrack.Controllers
                 Expires = DateTime.Now.AddMinutes(90)
 
             });
+            Response.Cookies.Add(new HttpCookie("role")
+            {
+                Value = firstOrDefault.RoleID.ToString(),
+                Expires = DateTime.Now.AddMinutes(90)
+            });
             if (remember)
             {
                 Response.Cookies.Add(new HttpCookie("userName_log")
