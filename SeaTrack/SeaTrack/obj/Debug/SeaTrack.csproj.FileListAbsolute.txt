@@ -446,8 +446,6 @@ D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\WebGrease.dll
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Quartz.dll
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\RestSharp.dll
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Microsoft.ApplicationBlocks.Data.dll
-D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.Core.dll
-D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.dll
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\SeaTrack.Lib.pdb
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Microsoft.AI.DependencyCollector.xml
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Microsoft.AI.ServerTelemetryChannel.xml
@@ -484,10 +482,12 @@ D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\System.Web.Http.Owin.xml
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Quartz.pdb
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Quartz.xml
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\RestSharp.xml
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.csprojResolveAssemblyReference.cache
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.pdb
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.Core.dll
+D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.dll
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.Core.pdb
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.Core.xml
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.pdb
 D:\Work\git\SeaTrack\SeaTrack\SeaTrack\bin\Common.Logging.xml
-D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.csprojResolveAssemblyReference.cache
-D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.dll
-D:\Work\git\SeaTrack\SeaTrack\SeaTrack\obj\Debug\SeaTrack.pdb
